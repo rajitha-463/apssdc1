@@ -1,0 +1,52 @@
+{
+	"details":{
+		"name":"rajitha",
+		"image":"bulb.jpg",
+		"email":"gangireddyvenkatarajitha@gmail.com",
+		"number":"+91-9999988999",
+		"address":"kadapa"
+	},
+	"careerobjective":{
+		"info":"To become web developer"
+	},
+	"educationalqualification":[
+	
+
+		{
+   
+			"institute":"sri venkateshwara college of engineering",
+			"degree":"B.tech",
+			"passoutyear":"2020",
+			"percentage":"83%"
+		},
+		{
+			"institute":"sri vaishnavi abhyaas junior college",
+			"degree":"Intermediate",
+			"passoutyear":"2018",
+			"percentage":"97.4%"
+		},
+		{
+			"institute":"vikas school",
+			"degree":"SSC",
+			"passoutyear":"2016",
+			"percentage":"97%"
+		}
+
+	],
+
+	"techinicalskills":[
+		{
+		"title":"programming langauges",
+		"info":["c,c++,java,python,"]
+	},
+		{
+		"title":"Databases",
+		"info":["oracle,sql,mongodb"]
+	},
+		{
+		"title":"OPerating system",
+		"info":["windows,linux"]
+	}
+
+	]
+}
